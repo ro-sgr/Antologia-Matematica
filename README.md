@@ -23,6 +23,11 @@ Este repositorio es una compilación personal de notas, clases y otros recursos 
 - Moderna
 - Proyectiva
 
+### Probabilidad
+- [Probabilidad I](https://www.youtube.com/playlist?list=PLc_ATubXG-SSBl1JtXZHGvKLfyqUs6ETl) - Luis Rincón
+- [Probabilidad II](https://www.youtube.com/playlist?list=PLc_ATubXG-STZcgeyYs0TlPh7YU6I9X48) - Luis Rincón
+- [Procesos Estocásticos](https://www.youtube.com/playlist?list=PLc_ATubXG-SSmOjWLHMvLLRgliYRc1DYFs) - Luis Rincón
+
 ### [Lógica](/L%C3%B3gica/)
 
 ### [Teoría de conjuntos](/Teor%C3%ADa%20de%20Conjuntos/)
