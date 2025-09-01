@@ -18,6 +18,10 @@ Este repositorio es una compilación personal de notas, clases y otros recursos 
 - Cálculo Diferencial e Integral 3
 - Cálculo Diferencial e Integral 4
 
+### [Ecuaciones Diferenciales Parciales]
+- [Math 220A](https://web.stanford.edu/class/math220a/) - Stanford Fall 2002
+- [Math 220B](https://web.stanford.edu/class/math220b/) - Stanford Summer 2003
+
 ### [Geometría](/Geometr%C3%ADa/)
 - Hiperbólica
 - Moderna
